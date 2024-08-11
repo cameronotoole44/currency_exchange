@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
-from currency_exchange import Currency
+from GUI.currency_exchange import Currency
 
 def convert_currency():
     try:
