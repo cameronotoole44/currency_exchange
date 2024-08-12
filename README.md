@@ -70,10 +70,6 @@ cd GUI
 python gui_app.py
 ```
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details
-
 ## Credits
 
 [Transparent Textures](https://www.transparenttextures.com/) for the background patterns
